@@ -24,5 +24,3 @@
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=imolchanova&repo=intro)
